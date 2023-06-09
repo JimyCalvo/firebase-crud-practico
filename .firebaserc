@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "authfire2023a": {
+      "hosting": {
+        "app": [
+          "authfire2023a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "authfire2023a"
+  }
+}
